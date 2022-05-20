@@ -1,2 +1,2 @@
-# webalura
-my personal files of web alura course (udemy)
+# webudemy
+my personal files of web udemy course (udemy)
